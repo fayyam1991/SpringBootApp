@@ -1,3 +1,3 @@
-<b>WelCome to my customer application project</b>
+<b>Welcome to my customer application project</b>
 
 
